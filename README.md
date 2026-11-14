@@ -140,28 +140,6 @@ The dashboard has **3 pages** with slicers for department, gender and job role.
 7. 📅 **Track attrition monthly** by income group and tenure to measure whether the actions work.
 ---
  
-## 📁 Repository Structure
- 
-```
-Employee_Attrition_Analysis/
-│
-├── data/
-│   ├── raw/                  # Original dataset
-│   └── processed/            # Cleaned CSV from the Python script
-│
-├── scripts/
-│   └── attrition_cleaning.py # Data cleaning + PostgreSQL loading
-│
-├── sql/
-│   └── analysis_queries.sql  # Business questions and queries
-│
-├── dashboard/
-│   ├── Employee_Attrition_Dashboard.pbix
-│   └── page screenshots (.png)
-│
-└── README.md
-```
- 
 ---
  
 ## 🚀 How to Run
