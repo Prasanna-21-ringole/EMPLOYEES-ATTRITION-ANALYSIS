@@ -107,9 +107,11 @@ The dashboard has **3 pages** with slicers for department, gender and job role.
 📸 **Screenshots**
  
 <!-- Add your screenshots to the dashboard/ folder and update the file names below -->
-![Overview](dashboard/page1_overview.png)
-![Who Is Leaving](dashboard/page2_who_is_leaving.png)
-![Attrition Drivers](dashboard/page3_drivers.png)
+![Executive Overview](https://github.com/Prasanna-21-ringole/EMPLOYEES-ATTRITION-ANALYSIS-/blob/ef8a3605ee180fe186aec90401372492546db753/EXECUTIVE%20OVERVIEW.png)
+
+![Who Is Leaving](https://github.com/Prasanna-21-ringole/EMPLOYEES-ATTRITION-ANALYSIS-/blob/ef8a3605ee180fe186aec90401372492546db753/Who%20Is%20Leaving.png)
+
+![Attrition Drivers](https://github.com/Prasanna-21-ringole/EMPLOYEES-ATTRITION-ANALYSIS-/blob/ef8a3605ee180fe186aec90401372492546db753/Attrition%20Drivers.png)
  
 ---
  
