@@ -205,8 +205,8 @@ The script cleans the data, saves the cleaned CSV, asks for your PostgreSQL pass
  
 ## 👤 Author
  
-**Your Name**
-- 💼 LinkedIn: [your-linkedin-link](https://www.linkedin.com/)
-- 🐙 GitHub: [your-github-link](https://github.com/)
-- 📧 Email: your.email@example.com
+**PRASANNA RINGOLE**
+- 💼 LinkedIn: [PRASANNA RINGOLE](www.linkedin.com/in/prasanna-ringole-b2a78a282)
+- 🐙 GitHub: [Prasanna-21-ringole](https://github.com/Prasanna-21-ringole))
+- 📧 Email: ringoleprasanna13@gmail.com
 ⭐ If you found this project useful, please star the repository.
